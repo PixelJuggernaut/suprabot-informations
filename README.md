@@ -1,6 +1,3 @@
-# suprabot-informations
-Commands, updates and other things
-
-Changelogs - curent version is v1.0.0
+#Supra bot is moderation and fun bot to use on your server, with many commands! you can set your own prefix to use with this bot, also he works with slash commands!
 
 
