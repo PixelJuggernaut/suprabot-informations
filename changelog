@@ -1,20 +1,35 @@
-#v1.0.0 - first version
+# Changelog
 
-# v2.0.0 - current version
+All notable changes to this project will be documented in this file.
 
--full bot rework
-All commands are now reworked
--many new commands to use! use /help to see them
--new music system to use
-also filter commands are added so you can use bass boost and other filters!
--new economy system
--new ranking system
-Leveling/Ranking same thing lol
--new minigames to play
-poker, pokemon and 32 more 😄
--new setup commands to use
--new soundboard system with 51 efects!
--new info commands
--new administration and owner systems
-much new commands added
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Released]
+
+## [1.0.0] - first version
+## [2.0.0] - 2023-06-29
+
+### Added
+
+- New music system
+- New enonomy system
+- New ranking system
+- New minigames to play
+- New setup commands
+- New soundboard system with 51 efects
+- New info commands
+- New administration commands and owner system
+
+### Fixed
+
+- Slash commands didn't worked
+
+### Changed
+
+- Old commands are reworked
+
+### Removed
+
+- Nothing.
 
