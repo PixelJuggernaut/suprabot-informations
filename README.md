@@ -4,7 +4,8 @@
 </p>
 <h3 align="center">Moderation and fun bot to use on your server, with many commands! you can set your own prefix to use with this bot, also he works with slash commands!</h3>
 
-
+## [Unreleased]
+Nothing for now, keep updated!
 # Changelog
 
 All notable changes to this project will be documented in this file.
