@@ -15,7 +15,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
-## [1.0.0] - first version
+## [2.0.1] - 2023-07-07
+
+### Fixed
+
+- Slash commands fixed
+- Bot status fixed
+- Change prefix command fixed
+- Slash commands enabled for every server by default
+- Ticket, Giveaway, Suggestion systems fixed, now works perfectly!
+
+### Changed
+
+- New music lavalink server, now loads music better
+- Default music provider is now SoundCloud, you can change it to Youtube or Youtube Music
+  
 ## [2.0.0] - 2023-06-29
 
 ### Added
@@ -37,9 +51,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Old commands are reworked
 
-### Removed
-
-- Nothing.
+## [1.0.0] - first version
 
 
 
