@@ -15,6 +15,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [2.0.2] - 2023-07-20
+
+### Added
+
+- STRANGE API Connected - Image manipulation made easy (read more here https://strangeapi.fun/docs)
+- Weatherstack API Connected - Real-Time & Historical World Weather Data API
+
 ## [2.0.1] - 2023-07-07
 
 ### Fixed
