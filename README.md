@@ -15,14 +15,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
-## [2.0.2] - 2023-07-20
+## [2.0.3] - 23-07-2023
+
+### Added
+
+- (prefix)botlinks - shows bot's links
+  
+## [2.0.2] - 20-07-2023
 
 ### Added
 
 - STRANGE API Connected - Image manipulation made easy (read more here https://strangeapi.fun/docs)
 - Weatherstack API Connected - Real-Time & Historical World Weather Data API
 
-## [2.0.1] - 2023-07-07
+## [2.0.1] - 07-07-2023
 
 ### Fixed
 
@@ -37,7 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New music lavalink server, now loads music better
 - Default music provider is now SoundCloud, you can change it to Youtube or Youtube Music
   
-## [2.0.0] - 2023-06-29
+## [2.0.0] - 29-06-2023
 
 ### Added
 
