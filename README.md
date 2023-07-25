@@ -5,7 +5,14 @@
 <h3 align="center">Moderation and fun bot to use on your server, with many commands! you can set your own prefix to use with this bot, also he works with slash commands!</h3>
 
 ## [Unreleased]
-Nothing for now, keep updated!
+
+## [2.0.3] - 23-07-2023
+
+### Added
+
+- (prefix)botlinks - shows bot's links
+- more things soon
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
@@ -14,12 +21,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Released]
-
-## [2.0.3] - 23-07-2023
-
-### Added
-
-- (prefix)botlinks - shows bot's links
   
 ## [2.0.2] - 20-07-2023
 
