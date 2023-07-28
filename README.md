@@ -6,11 +6,12 @@
 
 ## [Unreleased]
 
-## [2.0.3] - 23-07-2023
+## [2.0.3] - SOON
 
 ### Added
 
 - (prefix)botlinks - shows bot's links
+- Covid informations command removed
 - more things soon
 
 # Changelog
