@@ -4,6 +4,11 @@
 </p>
 <h3 align="center">Moderation and fun bot to use on your server, with many commands! you can set your own prefix to use with this bot, also he works with slash commands!</h3>
 
+## THIS REPOSITORY IS NOW ARHIVE, FOR NEW INFO VISIT NEXT LINKS
+My website: https://pixeljuggernaut.vercel.app/
+Docs: https://docs-pixeljuggernaut.vercel.app/
+Blog: https://blog-pixeljuggernaut.vercel.app/
+
 ## [Unreleased]
 
 ## [2.0.3] - SOON
