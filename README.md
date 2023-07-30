@@ -6,7 +6,6 @@
 
 ## CHECK OUT LINKS BELOVE FOR MORE INFO
 My website: https://pixeljuggernaut.vercel.app/
-Docs: https://docs-pixeljuggernaut.vercel.app/
 Blog: https://blog-pixeljuggernaut.vercel.app/
 
 ## [Unreleased]
